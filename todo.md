@@ -22,13 +22,13 @@
 - [ ] Write vitest tests for booking flow components
 
 ## Phase 3: Frontend — Admin Panel
-- [ ] Create admin-only layout with role-based access
-- [ ] Implement calendar view of all bookings
+- [x] Create admin-only layout with role-based access
+- [x] Implement calendar view of all bookings
 - [ ] Implement client list with visit history
-- [ ] Implement statistics dashboard (revenue, booking counts)
+- [x] Implement statistics dashboard (revenue, booking counts)
 - [ ] Implement service management UI (add, edit, delete)
 - [ ] Implement schedule configuration UI
-- [ ] Implement booking cancellation/rescheduling controls
+- [x] Implement booking cancellation/rescheduling controls
 - [ ] Write vitest tests for admin panel components
 
 ## Phase 4: Telegram Bot Integration
@@ -43,9 +43,9 @@
 - [x] Implement daily schedule summary to master
 
 ## Phase 5: Automated Reminders
-- [ ] Set up reminder scheduler (24 hours before appointment)
-- [ ] Set up reminder scheduler (2 hours before appointment)
-- [ ] Implement reminder message sending to clients
+- [x] Set up reminder scheduler (24 hours before appointment)
+- [x] Set up reminder scheduler (2 hours before appointment)
+- [x] Implement reminder message sending to clients
 - [ ] Test reminder delivery
 
 ## Phase 6: Styling & UX Polish
