@@ -24,12 +24,12 @@
 ## Phase 3: Frontend — Admin Panel
 - [x] Create admin-only layout with role-based access
 - [x] Implement calendar view of all bookings
-- [ ] Implement client list with visit history
+- [x] Implement client list with visit history
 - [x] Implement statistics dashboard (revenue, booking counts)
-- [ ] Implement service management UI (add, edit, delete)
-- [ ] Implement schedule configuration UI
+- [x] Implement service management UI (add, edit, delete)
+- [x] Implement schedule configuration UI
 - [x] Implement booking cancellation/rescheduling controls
-- [ ] Write vitest tests for admin panel components
+- [x] Write vitest tests for admin panel components
 
 ## Phase 4: Telegram Bot Integration
 - [x] Set up Telegram Bot with webhook
@@ -46,7 +46,7 @@
 - [x] Set up reminder scheduler (24 hours before appointment)
 - [x] Set up reminder scheduler (2 hours before appointment)
 - [x] Implement reminder message sending to clients
-- [ ] Test reminder delivery
+- [x] Test reminder delivery
 
 ## Phase 6: Styling & UX Polish
 - [x] Apply pastel gradient background (lavender, blush pink, mint)
